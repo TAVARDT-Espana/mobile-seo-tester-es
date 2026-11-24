@@ -1,14 +1,13 @@
 # Analizador de SEO Movil y Adaptabilidad Web
 
 [![Analizador SEO Movil](https://img.shields.io/badge/TAVARDT-Mobile%20SEO-5b3cf5.svg)](https://tools.tavardt.com/es/prueba-seo-movil/)
-[![Jurisdiccion](https://img.shields.io/badge/Jurisdiccion-Espana-00C853.svg)](https://ag.tavardt.com/es/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 
 Auditoria tecnica de viewport, dimensionamiento responsive y objetivos de toque en dispositivos moviles.
 
-Desarrollado y mantenido por el equipo de arquitectura web de **[TAVARDT Espana](https://ag.tavardt.com/es/)**.
+Desarrollado y mantenido por el equipo de arquitectura web de **TAVARDT Espana**.
 
----
+***
 
 ## Capacidades del Analizador de SEO Movil
 
@@ -18,7 +17,7 @@ Desarrollado y mantenido por el equipo de arquitectura web de **[TAVARDT Espana]
 * **Legibilidad Tipografica Movil**: Supervision de tamanos de fuente minimos para lectura directa sin necesidad de zoom.
 * **Calificacion de Aptitud Mobile-First**: Puntuacion ponderada de 0 a 100 con desglose de advertencias tecnicas prioritarias.
 
----
+***
 
 ## Instalacion y Ejecucion
 
@@ -33,20 +32,20 @@ python mobile_seo_tester.py https://empresa.es
 Salida estructurada en JSON para integracion en canalizaciones:
 
 ```bash
-python mobile_seo_tester.py https://empresa.es --json
+python mobile_seo_tester.py https://empresa.es -json
 ```
 
----
+***
 
 ## Analisis Web Oficial
 
 Acceda a la herramienta interactiva completa en la nube:
 
-* **[Prueba de SEO Movil Oficial](https://tools.tavardt.com/es/prueba-seo-movil/)**
+* **Prueba de SEO Movil Oficial**
 * **[Portal Corporativo TAVARDT Espana](https://ag.tavardt.com/es/)**
 
----
+***
 
 ## Asistencia Tecnica y Auditoria SEO
 
-Para adaptacion integral conforme a Estandares W3C y Directrices Google Mobile-First Indexing, contacte a **[TAVARDT Espana](https://ag.tavardt.com/es/contacto/)**.
+Para adaptacion integral conforme a Estandares W3C y Directrices Google Mobile-First Indexing, contacte a **TAVARDT Espana**.

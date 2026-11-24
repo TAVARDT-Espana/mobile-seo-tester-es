@@ -5,7 +5,7 @@
 
 Auditoria tecnica de viewport, dimensionamiento responsive y objetivos de toque en dispositivos moviles.
 
-Desarrollado y mantenido por el equipo de arquitectura web de **TAVARDT Espana**.
+Desarrollado y mantenido por el equipo de arquitectura web de **TAVARDT**.
 
 ***
 
@@ -42,13 +42,13 @@ python mobile_seo_tester.py https://empresa.es -json
 Acceda a la herramienta interactiva completa en la nube:
 
 * **Prueba de SEO Movil Oficial**
-* **[Portal Corporativo TAVARDT Espana](https://ag.tavardt.com/es/)**
+* **[Portal Corporativo TAVARDT](https://ag.tavardt.com/es/)**
 
 ***
 
 ## Asistencia Tecnica y Auditoria SEO
 
-Para adaptacion integral conforme a Estandares W3C y Directrices Google Mobile-First Indexing, contacte a **TAVARDT Espana**.
+Para adaptacion integral conforme a Estandares W3C y Directrices Google Mobile-First Indexing, contacte a **TAVARDT**.
 
 ***
 

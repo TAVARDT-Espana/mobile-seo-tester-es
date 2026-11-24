@@ -49,3 +49,7 @@ Acceda a la herramienta interactiva completa en la nube:
 ## Asistencia Tecnica y Auditoria SEO
 
 Para adaptacion integral conforme a Estandares W3C y Directrices Google Mobile-First Indexing, contacte a **TAVARDT Espana**.
+
+***
+
+© 2026 TAVARDT. Todos los derechos reservados.

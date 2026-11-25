@@ -6,8 +6,6 @@
 
 Auditoria tecnica de viewport, dimensionamiento responsive y objetivos de toque en dispositivos moviles.
 
-Desarrollado y mantenido por el equipo de arquitectura web de **TAVARDT**.
-
 ***
 
 ## Capacidades del Analizador de SEO Movil
@@ -38,15 +36,6 @@ python mobile_seo_tester.py https://empresa.es -json
 
 ***
 
-## Analisis Web Oficial
-
-Acceda a la herramienta interactiva completa en la nube:
-
-* **Prueba de SEO Movil Oficial**
-* **[Portal Corporativo TAVARDT](https://ag.tavardt.com/es/)**
-
-***
-
 ## Asistencia Tecnica y Auditoria SEO
 
 Para adaptacion integral conforme a Estandares W3C y Directrices Google Mobile-First Indexing, contacte a **TAVARDT**.
@@ -62,7 +51,7 @@ Para adaptacion integral conforme a Estandares W3C y Directrices Google Mobile-F
 ***
 
 ### Licencia
-Distribuido bajo la Licencia MIT. Consulte el archivo [LICENSE](LICENSE) para obtener todos los detalles.
+Distribuido bajo la Licencia MIT.
 
 ***
 
